@@ -88,11 +88,13 @@ export default {
         },
 
         blues: {
-          adjectives: ["Muddy Mike", "Blues", "Sizzlin' Bacon", "Umpteen", "Howlin'", "Smoky Joe", "Deep", "Soulful", "Swingin'", "Monday Morning", "Delta", "Alabama Slim",],
-          nouns: ["Cats", "Shouters", "and the Troubadours", "Experience", "Review", "Explosion", "Crossroads",
-            "Highway", "River", "and the Mississipi Misfits", "and His Representatives", "Revue", "Kings",
-            "Bluesmen"],
-          wildcards: ["Muddy Walter and the Mississippi Misfits", "F'get About It", "Buckets of Blues", "Blues Explosion", "Sizzlin' Bacon and the Troubadours",]
+          adjectives: ["Crossroads", "Blues", "Howlin' Matt", "Smoky Joe", "Deep", "Soulful Sam", "Swingin'", "Monday Morning",
+            "Delta", "Cold", "Blue", "Deep", "Lowdown", "Dusty", "Crisp", "Slick", "Moanin'", "Juke", "Raw", "Burnin'", "Delta", "Rusty", "Jazzy", "Rollin'", "Wild",
+            "Steady", "Sharp", "Twangy", "Faded", "The Blues", "Electric"],
+          nouns: ["Cats", "Shouters", "and the Troubadours", "Experience", "Review", "Explosion", "Band", "Highway", "River",
+            "and His Representatives", "Revue", "Kings", "Bluesmen", "Blues Busters", "River", "Soul", "Groove", "Trouble", "Crossroads", "Rhythm", "Mojo", "Shack",
+            "Shadow", "Heart", "Whiskey", "Train", "Delta", "Cane", "Storm", "Shuffle", "Shack", "Road", "Smoke", "Guitar", "Riff", "Bluesmen", "Melody", "Night"],
+          wildcards: ["Muddy Walter and the Mississippi Misfits", "Alabama Slim and Sizzlin' Bacon", "F'get About It", "Bucket of Blues", "Blues Explosion", "Sizzlin' Bacon and the Troubadours",]
         },
 
         country: {
