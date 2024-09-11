@@ -88,10 +88,10 @@ export default {
         },
 
         blues: {
-          adjectives: ["Crossroads", "Blues", "Howlin' Matt", "Smoky Joe", "Deep", "Soulful Sam", "Swingin'", "Monday Morning",
+          adjectives: ["Mister", "Crossroads", "Blues", "Howlin' Matt", "Smoky Joe", "Deep", "Soulful Sam", "Swingin'", "Monday Morning",
             "Delta", "Cold", "Blue", "Deep", "Lowdown", "Dusty", "Crisp", "Slick", "Moanin'", "Juke", "Raw", "Burnin'", "Delta", "Rusty", "Jazzy", "Rollin'", "Wild",
             "Steady", "Sharp", "Twangy", "Faded", "The Blues", "Electric"],
-          nouns: ["Cats", "Shouters", "and the Troubadours", "Experience", "Review", "Explosion", "Band", "Highway", "River",
+          nouns: ["Cats", "Shouters", "Special", "and the Troubadours", "Experience", "Review", "Explosion", "Band", "Highway", "River",
             "and His Representatives", "Revue", "Kings", "Bluesmen", "Blues Busters", "River", "Soul", "Groove", "Trouble", "Crossroads", "Rhythm", "Mojo", "Shack",
             "Shadow", "Heart", "Whiskey", "Train", "Delta", "Cane", "Storm", "Shuffle", "Shack", "Road", "Smoke", "Guitar", "Riff", "Bluesmen", "Melody", "Night"],
           wildcards: ["Muddy Walter and the Mississippi Misfits", "Alabama Slim and Sizzlin' Bacon", "F'get About It", "Bucket of Blues", "Blues Explosion", "Sizzlin' Bacon and the Troubadours",]
@@ -107,7 +107,8 @@ export default {
           nouns: ["All-Stars", "Cowboys", "and the Flatulent Five", "and the Lonesome Drifters", "Prairie", "Trail", "Canyon", "Whiskey", "Coyote",
             "River", "Desert", "Barn", "Dust", "Cowboy", "Lasso", "Saddle", "Hill", "Moon", "Horse", "Range", "Ranch", "Oak", "Rider", "Thunder",
             "Meadow", "Valley", "Storm", "Tumbleweed", "Ridge", "Wagon"],
-          wildcards: ["Dusty and the Freewheelers", "The Front-Porch All-Stars", "Stubborn Horseshoe", "The Rusty Spurs", "Buckaroo Bob and the Flatulent Five"]
+          wildcards: ["Dusty and the Freewheelers", "The Front-Porch All-Stars", "Stubborn Horseshoe", "The Rusty Spurs", 
+          "Buckaroo Bob and the Flatulent Five", "I'm Gonna Tell You What","Lonesome and Ornery", "The Bum Phillips"]
 
 
         },
@@ -123,7 +124,7 @@ export default {
             "Decayed", "Rotten", "Flesh-Eating", "Vengeful", "Mega", "Super", "Giant", "Sonic"],
           nouns: ["Rockers", "Assassins", "Sandwich", "Distortion", "Vortex", "Nexus", "Void",
             "Spiral", "Rift", "Chasm", "Overlords", "Reaper", "Abyss", "Fury", "Skull", "Havoc",],
-          wildcards: ["Grave Buffet", "Supersonic Gist", "Void Where Prohibited",]
+          wildcards: ["Grave Buffet", "Strategic Placenta", "Supersonic Gist", "Ferocious Cornhole", "Void Where Prohibited",]
 
         },
 
@@ -138,16 +139,18 @@ export default {
             "Horn", "Chord", "Melody", "Tone", "Beat", "Session", "Syncopation", "Jam", "Bassline", "Sax",
             "Trumpet", "Quartet", "Sextet", "Note", "Cadence", "Fusion", "Improv", "Keys", "Quartet", "Octave",
             "Bridge", "Lounge", "Club", "Moonlight", "Sizzle", "Snare", "Shuffle", "Bebop", "Riff", "Midnight",
-            "Rhythm", "Brushes", "Stomp", "Break", "Solo", "Chord", "Bop", "Pulse", "Groove", "Reverb"]
+            "Rhythm", "Brushes", "Stomp", "Break", "Solo", "Chord", "Bop", "Pulse", "Groove", "Reverb"],
+          wildcards: ["Sweet Suzy and Fat City", "Swing City", "The East Side/West Side Swingers", "The Big Dividends Show Band", "The Groove Ambassadors", "The Uptown Downtown Band"]  
 
         },
 
         pop: {
-          adjectives: ["Ganja", "Jah", "Conscious", "Sonic", "Rasta", "", "Cosmic", "Mega", "Super", "Giant",
-            "Sonic", "Bill Marley",],
+          adjectives: ["Mister", "My Dog Ate the", "Conscious", "Sonic", "Naked", "", "Cosmic", "Mega", "Super", "Giant",
+            "Sonic",],
           nouns: ["Rockers", "Drifters", "Jam", "Vortex", "Living", "Pulse", "Rebels", "and the Wafflers",
-            "Quest", "Specter", "Cloud Formation", "Ark", "Nebula", "Oracle", "and the Eclipse", "Sandwich"],
-          wildcards: ["Utterly Wednesday", "What Happened in Vegas", "Exasperated Footwork", "Untainted Journalism"]
+            "Quest", "Specter", "Cloud Formation", "Ark", "Nebula", "Oracle", "Eclipse", "Sandwich"],
+          wildcards: ["Utterly Wednesday", "She Ate the Sandwich", "What Happened in Vegas", "Certain Time of Year", 
+          "Exasperated Footwork", "Untainted Journalism"]
 
         },
 
@@ -163,7 +166,8 @@ export default {
             "Riot", "Crisis", "Rejection", "Outcast", "Threat", "Sabotage", "Misfit", "Mutiny", "Disorder", "Havoc",
             "Blitz", "Dissent", "Reckoning", "Venom", "Rebellion", "Wreck", "Resistance", "Grind", "Barricade", "Rubble",
             "Snarl", "Fist", "Vendetta", "Mayhem", "Outrage", "Burn", "Distortion", "Grudge", "Shrapnel", "Whiplash",
-            "Scum", "Insurgency", "Parasite", "Inferno", "Brawl", "Backlash", "Trigger", "Razor", "Outbreak", "Wasteland"]
+            "Scum", "Insurgency", "Parasite", "Inferno", "Brawl", "Backlash", "Trigger", "Razor", "Outbreak", "Wasteland"],
+          wildcards: ["Riot Squad", "Resting Bitch Face"]  
 
         },
 
