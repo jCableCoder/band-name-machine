@@ -1,1 +1,1 @@
-<!-- A funky band-name generator -->
+Live website: https://band-name-machine.netlify.app/
